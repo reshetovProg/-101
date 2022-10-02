@@ -1,0 +1,26 @@
+
+body
+{
+	background-color: #F5F5F5;
+	font-size: 12px;
+}
+h2{
+	padding-left: 30px;
+	padding-top: 5px;
+	font-size: 16px;
+	height: 10px;
+}
+
+div{
+	margin: 20px 0px;
+	color: white;
+	background-color:#0E494E; 
+
+
+}
+
+p{
+	background-color: #236167;
+	padding: 10px 20px;
+	font-size: 14px;
+}
